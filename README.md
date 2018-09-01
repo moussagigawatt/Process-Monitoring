@@ -54,6 +54,6 @@ $ ./pmonitor.sh 1237 5
 - Add sending a report to the remote monitoring server
 - Add automatic sampling rate adjustment based on CPU usage
 
-###License
+### License
 ----
 MIT
